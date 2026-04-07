@@ -1,2 +1,17 @@
-# portswigger-sqli-labs-
-A practical repository documenting PortSwigger SQL Injection labs with clear methodology, payload analysis, and exploitation techniques. Focused on real-world penetration testing skills using Burp Suite.
+PortSwigger SQLI Labs Writeups
+
+This repository contains my structured solutions to PortSwigger SQL ingection labs using OWASP ZAP.
+
+## Topics Covered 
+-Error-based SQLI
+-UNION attacks
+-Blind SQLi (Boolean + Time)
+-OOB SQLi
+
+## Tools Used
+-OWASP ZAP
+-Firefox
+-SQL basics
+
+## GOal
+Master SQL Injection for real-world pentesting
