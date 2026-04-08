@@ -13,5 +13,5 @@ This repository contains my structured solutions to PortSwigger SQL ingection la
 -Firefox
 -SQL basics
 
-## GOal
+## Goal
 Master SQL Injection for real-world pentesting
